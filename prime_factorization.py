@@ -1,4 +1,4 @@
-# Script to find the prime factorizaiton of a natural number
+# Script to find the prime factorization of a natural number
 # Author: Collin Broderick
 # Based on https://byjus.com/maths/prime-factorization/
 
